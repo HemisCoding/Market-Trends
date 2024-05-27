@@ -1,5 +1,4 @@
 # Market-Trends
-# Restaurant Review Analyzer 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](to_be_added) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
