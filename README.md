@@ -37,4 +37,4 @@ This project leverages AI agents (using LangChain and potentially other tools) t
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/HemisCoding/Market-Trends.git]
+   git clone https://github.com/HemisCoding/Market-Trends.git
